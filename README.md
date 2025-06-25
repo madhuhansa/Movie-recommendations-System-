@@ -6,9 +6,6 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [API Reference](#api-reference)
-- [License](#license)
 
 ---
 
@@ -47,7 +44,7 @@ Users select movies they enjoy, and the system suggests similar titles using **c
 
 ### 🛠️ Bonus Features
 - Discover random movies
-- Filter by year/genre/rating
+
 
 ---
 
@@ -94,6 +91,6 @@ Users select movies they enjoy, and the system suggests similar titles using **c
 5. **Access the web interface**:
    Open http://localhost:5000 in your web browser
 
-
-**By Yahan**  
+---
+## **By Yahan**  
 A content-based movie recommendation system that suggests films based on user preferences using machine learning and NLP.
