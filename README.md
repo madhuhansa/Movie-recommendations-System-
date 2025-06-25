@@ -84,9 +84,9 @@ Users select movies they enjoy, and the system suggests similar titles using **c
 2. **Install Python dependencies**:
    pip install -r requirements.txt
 
-3. **Set up TMDB API key**:
-   - Get your API key from https://www.themoviedb.org/settings/api
-   - Replace 'YOUR_API_KEY' in app.py with your actual key
+3. **Run models/model.ipynb**:
+   - Run the jupytor note book to generate models
+     
 
 4. **Run the application**:
    python app.py
